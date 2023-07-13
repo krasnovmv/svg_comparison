@@ -1,0 +1,41 @@
+.icon {
+    width: 100px;
+    height: 100px;
+}
+
+.red {
+    fill: red;
+}
+
+.green {
+    fill: green;
+}
+
+.blue {
+    fill: blue;
+}
+
+.yellow {
+    fill: yellow;
+}
+
+.gray {
+    fill: gray;
+}
+
+.orange {
+    fill: orange;
+}
+
+.violet {
+    fill: violet;
+}
+
+
+.teal {
+    fill: teal;
+}
+
+.indigo {
+    fill: indigo;
+}
