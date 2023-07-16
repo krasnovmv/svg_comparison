@@ -1,12 +1,13 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import SvgSpriteIcon, {icons} from "../components/icon/SvgSpriteIcon";
+import {icons} from "../components/icon";
+import SvgInlineIcon from "../components/icon/SvgInlineIcon";
 ---
 
 <Layout title="Welcome to Astro.">
     {
         icons.map(icon =>
-                <SvgSpriteIcon icon={icon}/>)
+                <SvgInlineIcon icon={icon}/>)
     }
 </Layout>
 

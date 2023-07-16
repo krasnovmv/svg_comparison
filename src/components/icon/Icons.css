@@ -1,6 +1,8 @@
 .icon {
     width: 100px;
     height: 100px;
+    display: inline-block;
+    background-repeat: no-repeat;
 }
 
 .red {
@@ -30,7 +32,6 @@
 .violet {
     fill: violet;
 }
-
 
 .teal {
     fill: teal;

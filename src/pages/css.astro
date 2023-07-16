@@ -1,0 +1,16 @@
+---
+import Layout from '../layouts/Layout.astro';
+import {icons} from "../components/icon";
+import SvgCssIcon from "../components/icon/SvgCssIcon";
+---
+
+<Layout title="Welcome to Astro.">
+    {
+        icons.map(icon =>
+                <SvgCssIcon icon={icon}/>)
+    }
+</Layout>
+
+<style>
+
+</style>

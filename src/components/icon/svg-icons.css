@@ -1,0 +1,451 @@
+.about {
+    background-image: svg-load("about.svg");
+}
+
+.arrow {
+    background-image: svg-load("arrow.svg");
+}
+
+.back {
+    background-image: svg-load("back.svg");
+}
+
+.bell {
+    background-image: svg-load("bell.svg");
+}
+
+.bk {
+    background-image: svg-load("bk.svg");
+}
+
+.boy {
+    background-image: svg-load("boy.svg");
+}
+
+.brush {
+    background-image: svg-load("brush.svg");
+}
+
+.burger {
+    background-image: svg-load("burger.svg");
+}
+
+.calculator {
+    background-image: svg-load("calculator.svg");
+}
+
+.calendar {
+    background-image: svg-load("calendar.svg");
+}
+
+.camera {
+    background-image: svg-load("camera.svg");
+}
+
+.cart {
+    background-image: svg-load("cart.svg");
+}
+
+.cc {
+    background-image: svg-load("cc.svg");
+}
+
+.chicken {
+    background-image: svg-load("chicken.svg");
+}
+
+.coctail {
+    background-image: svg-load("coctail.svg");
+}
+
+.coding {
+    background-image: svg-load("coding.svg");
+}
+
+.coffee {
+    background-image: svg-load("coffee.svg");
+}
+
+.compass {
+    background-image: svg-load("compass.svg");
+}
+
+.confirm {
+    background-image: svg-load("confirm.svg");
+}
+
+.crop {
+    background-image: svg-load("crop.svg");
+}
+
+.crown {
+    background-image: svg-load("crown.svg");
+}
+
+.cup {
+    background-image: svg-load("cup.svg");
+}
+
+.delete {
+    background-image: svg-load("delete.svg");
+}
+
+.design {
+    background-image: svg-load("design.svg");
+}
+
+.desktop {
+    background-image: svg-load("desktop.svg");
+}
+
+.diagram {
+    background-image: svg-load("diagram.svg");
+}
+
+.diamond {
+    background-image: svg-load("diamond.svg");
+}
+
+.document {
+    background-image: svg-load("document.svg");
+}
+
+.doughnut {
+    background-image: svg-load("doughnut.svg");
+}
+
+.download {
+    background-image: svg-load("download.svg");
+}
+
+.edit {
+    background-image: svg-load("edit.svg");
+}
+
+.equalizer {
+    background-image: svg-load("equalizer.svg");
+}
+
+.exit {
+    background-image: svg-load("exit.svg");
+}
+
+.eye {
+    background-image: svg-load("eye.svg");
+}
+
+.fd {
+    background-image: svg-load("fd.svg");
+}
+
+.flag {
+    background-image: svg-load("flag.svg");
+}
+
+.flash {
+    background-image: svg-load("flash.svg");
+}
+
+.folder {
+    background-image: svg-load("folder.svg");
+}
+
+.gamepad {
+    background-image: svg-load("gamepad.svg");
+}
+
+.girl {
+    background-image: svg-load("girl.svg");
+}
+
+.glasses {
+    background-image: svg-load("glasses.svg");
+}
+
+.group {
+    background-image: svg-load("group.svg");
+}
+
+.hand {
+    background-image: svg-load("hand.svg");
+}
+
+.hanger {
+    background-image: svg-load("hanger.svg");
+}
+
+.hat {
+    background-image: svg-load("hat.svg");
+}
+
+.hd {
+    background-image: svg-load("hd.svg");
+}
+
+.headphones {
+    background-image: svg-load("headphones.svg");
+}
+
+.heart {
+    background-image: svg-load("heart.svg");
+}
+
+.home {
+    background-image: svg-load("home.svg");
+}
+
+.icecream {
+    background-image: svg-load("icecream.svg");
+}
+
+.keyboard {
+    background-image: svg-load("keyboard.svg");
+}
+
+.key {
+    background-image: svg-load("key.svg");
+}
+
+.lamp {
+    background-image: svg-load("lamp.svg");
+}
+
+.like {
+    background-image: svg-load("like.svg");
+}
+
+.list {
+    background-image: svg-load("list.svg");
+}
+
+.lock {
+    background-image: svg-load("lock.svg");
+}
+
+.magic {
+    background-image: svg-load("magic.svg");
+}
+
+.magnet {
+    background-image: svg-load("magnet.svg");
+}
+
+.maximize {
+    background-image: svg-load("maximize.svg");
+}
+
+.medal {
+    background-image: svg-load("medal.svg");
+}
+
+.menu {
+    background-image: svg-load("menu.svg");
+}
+
+.message {
+    background-image: svg-load("message.svg");
+}
+
+.mic {
+    background-image: svg-load("mic.svg");
+}
+
+.minimize {
+    background-image: svg-load("minimize.svg");
+}
+
+.mobile {
+    background-image: svg-load("mobile.svg");
+}
+
+.mouse {
+    background-image: svg-load("mouse.svg");
+}
+
+.music {
+    background-image: svg-load("music.svg");
+}
+
+.next {
+    background-image: svg-load("next.svg");
+}
+
+.notepad {
+    background-image: svg-load("notepad.svg");
+}
+
+.pants {
+    background-image: svg-load("pants.svg");
+}
+
+.pause {
+    background-image: svg-load("pause.svg");
+}
+
+.pen_tool {
+    background-image: svg-load("pen tool.svg");
+}
+
+.picture {
+    background-image: svg-load("picture.svg");
+}
+
+.pin {
+    background-image: svg-load("pin.svg");
+}
+
+.pizza {
+    background-image: svg-load("pizza.svg");
+}
+
+.play {
+    background-image: svg-load("play.svg");
+}
+
+.playlist {
+    background-image: svg-load("playlist.svg");
+}
+
+.plus {
+    background-image: svg-load("plus.svg");
+}
+
+.presentation {
+    background-image: svg-load("presentation.svg");
+}
+
+.present {
+    background-image: svg-load("present.svg");
+}
+
+.printer {
+    background-image: svg-load("printer.svg");
+}
+
+.quote {
+    background-image: svg-load("quote.svg");
+}
+
+.random {
+    background-image: svg-load("random.svg");
+}
+
+.rating {
+    background-image: svg-load("rating.svg");
+}
+
+.refresh {
+    background-image: svg-load("refresh.svg");
+}
+
+.ring {
+    background-image: svg-load("ring.svg");
+}
+
+.rocket {
+    background-image: svg-load("rocket.svg");
+}
+
+.ruller {
+    background-image: svg-load("ruller.svg");
+}
+
+.search {
+    background-image: svg-load("search.svg");
+}
+
+.send {
+    background-image: svg-load("send.svg");
+}
+
+.settings {
+    background-image: svg-load("settings.svg");
+}
+
+.share {
+    background-image: svg-load("share.svg");
+}
+
+.smile {
+    background-image: svg-load("smile.svg");
+}
+
+.sox {
+    background-image: svg-load("sox.svg");
+}
+
+.star {
+    background-image: svg-load("star.svg");
+}
+
+.stop {
+    background-image: svg-load("stop.svg");
+}
+
+.table {
+    background-image: svg-load("table.svg");
+}
+
+.text {
+    background-image: svg-load("text.svg");
+}
+
+.text_tool {
+    background-image: svg-load("text tool.svg");
+}
+
+.tie {
+    background-image: svg-load("tie.svg");
+}
+
+.timer {
+    background-image: svg-load("timer.svg");
+}
+
+.trash {
+    background-image: svg-load("trash.svg");
+}
+
+.tshirt {
+    background-image: svg-load("tshirt.svg");
+}
+
+.unlike {
+    background-image: svg-load("unlike.svg");
+}
+
+.unlock {
+    background-image: svg-load("unlock.svg");
+}
+
+.upload {
+    background-image: svg-load("upload.svg");
+}
+
+.video {
+    background-image: svg-load("video.svg");
+}
+
+.volume_off {
+    background-image: svg-load("volume off.svg");
+}
+
+.volume_on {
+    background-image: svg-load("volume on.svg");
+}
+
+.watch {
+    background-image: svg-load("watch.svg");
+}
+
+.webcam {
+    background-image: svg-load("webcam.svg");
+}
+
+.web {
+    background-image: svg-load("web.svg");
+}
+
+.zip {
+    background-image: svg-load("zip.svg");
+}
