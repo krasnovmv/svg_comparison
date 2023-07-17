@@ -8,7 +8,12 @@ const SvgSpriteIcon: React.FC<CommonProps> = ({icon, color, ...props}) => {
     const className = ["icon", colors[getRandomInt(colors.length)]].join(" ");
     return (
         <svg {...props} className={className}>
-            <use href={`${href}#${icon.toString()}`} />
+            <use
+                href={`${import.meta.env.BASE_URL.replace(
+                    "/",
+                    "",
+                )}${href}#${icon.toString()}`}
+            />
         </svg>
     );
 };
